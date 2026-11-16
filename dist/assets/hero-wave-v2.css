@@ -1,0 +1,4 @@
+/* Reference: Ahmed's supplied V2 gold/blue wave image. Background only. */
+.hero-v1210{background-color:#071b32;background-image:url("hero-wave-v2.png");background-size:100% 100%;background-position:center;background-repeat:no-repeat}
+.hero-v1210 .hero-glow{background:linear-gradient(90deg,rgba(4,17,35,.18),transparent 60%)}
+.hero-v1210 .floor{opacity:0}
